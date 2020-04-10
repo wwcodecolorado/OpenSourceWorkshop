@@ -1,1 +1,3 @@
 # OpenSourceWorkshop
+
+Details TBD
